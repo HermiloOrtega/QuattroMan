@@ -31,15 +31,13 @@ Key Goals:
 ---
 
 ## ⚙️ Tech Stack  
-| Technology | Description |
-|------------|-------------|
-| ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge) | Used in backend APIs of Quattrofy |
-| ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge) | Quattrofy system DB |
-| ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge) | API payloads and Power Automate connectors |
-| ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white&style=for-the-badge) | Flow engine for triggers & backend processes |
-| ![Microsoft Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-000000?logo=microsoft&logoColor=white&style=for-the-badge) | Conversational design and agent deployment |
-| ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=white&style=for-the-badge) | Primary interaction channel |
-| ![ChatGPT](https://img.shields.io/badge/OpenAI%20ChatGPT-412991?logo=openai&logoColor=white&style=for-the-badge) | Smart fallback responses |
+| **Category**          | **Tools & Technologies** |
+|-----------------------|-----------------------------------------------------------------------------------------------------------|
+| **Data Format**          | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) |
+| **APIs Protocols**     | ![REST API](https://img.shields.io/badge/REST%20API-025669?style=flat&logo=api&logoColor=white) |
+| **Project Management**   | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+| **Collaboration & Communication** | ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=white&style=for-the-badge) (Primary interaction channel) |
+| **AI & Assistants**   | ![ChatGPT](https://img.shields.io/badge/OpenAI%20ChatGPT-412991?logo=openai&logoColor=white&style=for-the-badge) ![Microsoft Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-000000?logo=microsoft&logoColor=white&style=for-the-badge) |
 
 ---
 
