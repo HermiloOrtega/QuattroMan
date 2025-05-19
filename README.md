@@ -31,13 +31,13 @@ Key Goals:
 ---
 
 ## ⚙️ Tech Stack  
-| **Category**          | **Tools & Technologies** |
-|-----------------------|-----------------------------------------------------------------------------------------------------------|
-| **Data Format**          | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) |
-| **APIs Protocols**     | ![REST API](https://img.shields.io/badge/REST%20API-025669?style=flat&logo=api&logoColor=white) |
-| **Project Management**   | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
-| **Collaboration & Communication** | ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=white&style=for-the-badge) (Primary interaction channel) |
-| **AI & Assistants**   | ![ChatGPT](https://img.shields.io/badge/OpenAI%20ChatGPT-412991?logo=openai&logoColor=white&style=for-the-badge) ![Microsoft Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-000000?logo=microsoft&logoColor=white&style=for-the-badge) |
+| **Category**                  | **Tools & Technologies** |
+|------------------------------|---------------------------|
+| **Data Format**              | ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) |
+| **API Protocols**            | ![REST API](https://img.shields.io/badge/REST%20API-025669?style=for-the-badge&logo=api&logoColor=white) |
+| **Project Management**       | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
+| **Collaboration & Communication** | ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white) `Primary interaction channel` |
+| **AI & Assistants**          | ![ChatGPT](https://img.shields.io/badge/OpenAI%20ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white) ![Microsoft Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-000000?style=for-the-badge&logo=microsoft&logoColor=white) |
 
 ---
 
