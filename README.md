@@ -7,6 +7,11 @@ The agent is embedded in **Microsoft Teams** and within the **Quattrofy Web App*
 
 ---
 
+### Flow
+![Screenshot](./assets/1.jpg)
+
+---
+
 ## 💡 Idea & Concept  
 Born out of the need to reduce repetitive inquiries in the **Project Controls** and **IT** departments, the project began with a simple set of static responses. With high demand and complexity, it evolved into a powerful **AI-powered agent**, capable of dynamic querying, API integration, and multi-channel availability.
 
